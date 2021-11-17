@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinishTestOdin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Фрагмент ABOUT</string>
+    <string name="button_about_text">О нас</string>
+    <string name="back">Назад</string>
+</resources>
